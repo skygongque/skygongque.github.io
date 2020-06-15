@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>demo</title>
-    <url>/2020/06/14/demo/</url>
-    <content><![CDATA[<h1 id="github地址"><a href="#github地址" class="headerlink" title="github地址"></a>github地址</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;github.com&#x2F;skygongque</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2020/06/15/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -31,6 +20,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>demo</title>
+    <url>/2020/06/14/demo/</url>
+    <content><![CDATA[<h1 id="github地址"><a href="#github地址" class="headerlink" title="github地址"></a>github地址</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;github.com&#x2F;skygongque</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>tutotial</title>
     <url>/2020/06/14/tutotial/</url>
     <content><![CDATA[<p>搭建教程参考<br><a href="https://ryanluoxu.github.io/2017/11/24/%E7%94%A8-Hexo-%E5%92%8C-GitHub-Pages-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" target="_blank" rel="noopener">https://ryanluoxu.github.io/2017/11/24/%E7%94%A8-Hexo-%E5%92%8C-GitHub-Pages-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</a></p>
@@ -40,6 +40,27 @@
       </categories>
       <tags>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>spider-summary</title>
+    <url>/2020/06/14/summary/</url>
+    <content><![CDATA[<h1 id="自己写的爬虫总结"><a href="#自己写的爬虫总结" class="headerlink" title="自己写的爬虫总结"></a>自己写的爬虫总结</h1><p>文章可能首次发表于吾爱破解论坛，以下账户也是本人<br><a href="https://www.52pojie.cn/home.php?mod=space&amp;uid=965057" target="_blank" rel="noopener">https://www.52pojie.cn/home.php?mod=space&amp;uid=965057</a></p>
+<h2 id="微博模拟登录"><a href="#微博模拟登录" class="headerlink" title="微博模拟登录"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/weibo_login.md" target="_blank" rel="noopener">微博模拟登录</a></h2><p>RSA/PKCS1_v1_5<br>用python的pycryptodome或rsa库都可以实现<br>下载验证码图片手动输入结果（若有接码平台或机器学习训练的模型可以接入）  </p>
+<a id="more"></a>
+<h2 id="微博图片批量下载"><a href="#微博图片批量下载" class="headerlink" title="微博图片批量下载"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/weibo.md" target="_blank" rel="noopener">微博图片批量下载</a></h2><p>用asyncio + aiohttp异步下载图片  </p>
+<h2 id="网易云音乐评论爬虫"><a href="#网易云音乐评论爬虫" class="headerlink" title="网易云音乐评论爬虫"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/netease_comments.md" target="_blank" rel="noopener">网易云音乐评论爬虫</a></h2><p>params和encSecKey参数<br>AES/CBC  </p>
+<pre><code>pad = lambda s: s + (16 - len(s) % 16) * chr(16 - len(s) % 16)</code></pre><p>RSA/nopading  </p>
+<h2 id="网易云音乐下载"><a href="#网易云音乐下载" class="headerlink" title="网易云音乐下载"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/netease_music.md" target="_blank" rel="noopener">网易云音乐下载</a></h2><p>nodejs express<br>params和encSecKey参数<br>直接扣代码补全缺少的环境即可<br>Crypto-js库用npm安装  </p>
+<h2 id="抖音web-signature"><a href="#抖音web-signature" class="headerlink" title="抖音web signature"></a><a href="https://github.com/skygongque/douyin_signature" target="_blank" rel="noopener">抖音web signature</a></h2><p>nodejs express puppeteer<br>1.得到指定uid请求返回的tac<br>2.puppeteer驱动chromium<br>在console中执行签名算法得到signature  </p>
+<h2 id="喜马拉雅有声书爬虫"><a href="#喜马拉雅有声书爬虫" class="headerlink" title="喜马拉雅有声书爬虫"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/ximalay_node.md" target="_blank" rel="noopener">喜马拉雅有声书爬虫</a></h2><p>纯JavaScript爬虫<br>通过fileId和ep等参数还原真实地址<br>直接扣代码即可  </p>
+<h2 id="喜马拉雅模拟登录"><a href="#喜马拉雅模拟登录" class="headerlink" title="喜马拉雅模拟登录"></a><a href="https://github.com/skygongque/login-ximalaya" target="_blank" rel="noopener">喜马拉雅模拟登录</a></h2><p>opencv-python 识别滑块验证码的缺口识别成功率约 60-70%<br>参考腾讯防水墙缺口的识别算法简单修改<br>因为喜马拉雅滑块没有检测轨迹，只对post的缺口位置经过简单的偏移<br>可以实现此滑动验证码的突破</p>
+]]></content>
+      <categories>
+        <category>爬虫</category>
+      </categories>
+      <tags>
+        <tag>爬虫</tag>
       </tags>
   </entry>
 </search>

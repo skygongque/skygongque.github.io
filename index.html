@@ -17,7 +17,7 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"skygongque.github.io","root":"/","scheme":"Muse","version":"8.0.0-rc.3","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+    var CONFIG = {"hostname":"skygongque.github.io","root":"/","scheme":"Muse","version":"8.0.0-rc.3","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
   <meta property="og:type" content="website">
@@ -99,6 +99,7 @@
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -110,6 +111,11 @@
         <li class="menu-item menu-item-home">
 
     <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
 
   </li>
         <li class="menu-item menu-item-tags">
@@ -127,11 +133,38 @@
     <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
 
   </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
   </ul>
 </nav>
 
 
 
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
 
 </div>
     </header>
@@ -185,8 +218,17 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-06-15 10:07:13" itemprop="dateModified" datetime="2020-06-15T10:07:13+08:00">2020-06-15</time>
+                <time title="修改时间：2020-06-15 13:49:53" itemprop="dateModified" datetime="2020-06-15T13:49:53+08:00">2020-06-15</time>
               </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E6%95%99%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">教程</span></a>
+                </span>
+            </span>
 
           
 
@@ -250,8 +292,17 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-06-15 10:07:05" itemprop="dateModified" datetime="2020-06-15T10:07:05+08:00">2020-06-15</time>
+                <time title="修改时间：2020-06-15 13:49:51" itemprop="dateModified" datetime="2020-06-15T13:49:51+08:00">2020-06-15</time>
               </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E7%88%AC%E8%99%AB/" itemprop="url" rel="index"><span itemprop="name">爬虫</span></a>
+                </span>
+            </span>
 
           
 
@@ -266,13 +317,14 @@
       
           <h1 id="自己写的爬虫总结"><a href="#自己写的爬虫总结" class="headerlink" title="自己写的爬虫总结"></a>自己写的爬虫总结</h1><p>文章可能首次发表于吾爱破解论坛，以下账户也是本人<br><a href="https://www.52pojie.cn/home.php?mod=space&amp;uid=965057" target="_blank" rel="noopener">https://www.52pojie.cn/home.php?mod=space&amp;uid=965057</a></p>
 <h2 id="微博模拟登录"><a href="#微博模拟登录" class="headerlink" title="微博模拟登录"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/weibo_login.md" target="_blank" rel="noopener">微博模拟登录</a></h2><p>RSA/PKCS1_v1_5<br>用python的pycryptodome或rsa库都可以实现<br>下载验证码图片手动输入结果（若有接码平台或机器学习训练的模型可以接入）  </p>
-<h2 id="微博图片批量下载"><a href="#微博图片批量下载" class="headerlink" title="微博图片批量下载"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/weibo.md" target="_blank" rel="noopener">微博图片批量下载</a></h2><p>用asyncio + aiohttp异步下载图片  </p>
-<h2 id="网易云音乐评论爬虫"><a href="#网易云音乐评论爬虫" class="headerlink" title="网易云音乐评论爬虫"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/netease_comments.md" target="_blank" rel="noopener">网易云音乐评论爬虫</a></h2><p>params和encSecKey参数<br>AES/CBC<br><code>pad = lambda s: s + (16 - len(s) % 16) * chr(16 - len(s) % 16)</code><br>RSA/nopading  </p>
-<h2 id="网易云音乐下载"><a href="#网易云音乐下载" class="headerlink" title="网易云音乐下载"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/netease_music.md" target="_blank" rel="noopener">网易云音乐下载</a></h2><p>nodejs express<br>params和encSecKey参数<br>直接扣代码补全缺少的环境即可<br>Crypto-js库用npm安装  </p>
-<h2 id="抖音web-signature"><a href="#抖音web-signature" class="headerlink" title="抖音web signature"></a><a href="https://github.com/skygongque/douyin_signature" target="_blank" rel="noopener">抖音web signature</a></h2><p>nodejs express puppeteer<br>1.得到指定uid请求返回的tac<br>2.puppeteer驱动chromium<br>在console中执行签名算法得到signature  </p>
-<h2 id="喜马拉雅有声书爬虫"><a href="#喜马拉雅有声书爬虫" class="headerlink" title="喜马拉雅有声书爬虫"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/ximalay_node.md" target="_blank" rel="noopener">喜马拉雅有声书爬虫</a></h2><p>纯JavaScript爬虫<br>通过fileId和ep等参数还原真实地址<br>直接扣代码即可  </p>
-<h2 id="喜马拉雅模拟登录"><a href="#喜马拉雅模拟登录" class="headerlink" title="喜马拉雅模拟登录"></a><a href="https://github.com/skygongque/login-ximalaya" target="_blank" rel="noopener">喜马拉雅模拟登录</a></h2><p>opencv-python 识别滑块验证码的缺口识别成功率约 60-70%<br>参考腾讯防水墙缺口的识别算法简单修改<br>因为喜马拉雅滑块没有检测轨迹，只对post的缺口位置经过简单的偏移<br>可以实现此滑动验证码的突破</p>
-
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/06/14/summary/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -322,8 +374,17 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-06-15 10:06:29" itemprop="dateModified" datetime="2020-06-15T10:06:29+08:00">2020-06-15</time>
+                <time title="修改时间：2020-06-15 13:49:48" itemprop="dateModified" datetime="2020-06-15T13:49:48+08:00">2020-06-15</time>
               </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E6%B5%8B%E8%AF%95/" itemprop="url" rel="index"><span itemprop="name">测试</span></a>
+                </span>
+            </span>
 
           
 
@@ -381,6 +442,13 @@
 
               <time title="创建时间：2020-06-14 14:34:37" itemprop="dateCreated datePublished" datetime="2020-06-14T14:34:37+08:00">2020-06-14</time>
             </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2020-06-15 13:27:23" itemprop="dateModified" datetime="2020-06-15T13:27:23+08:00">2020-06-15</time>
+              </span>
 
           
 
@@ -394,19 +462,14 @@
 
       
           <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/06/14/hello-world/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -491,6 +554,12 @@
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
@@ -567,6 +636,10 @@
   
 
 
+
+
+  
+<script src="/js/local-search.js"></script>
 
 
 

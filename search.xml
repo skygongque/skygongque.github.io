@@ -3,7 +3,9 @@
   <entry>
     <title>00语法树概述</title>
     <url>/2020/06/16/00%E8%AF%AD%E6%B3%95%E6%A0%91%E6%A6%82%E8%BF%B0/</url>
-    <content><![CDATA[<h1 id="语法树概述"><a href="#语法树概述" class="headerlink" title="语法树概述"></a>语法树概述</h1><a id="more"></a>
+    <content><![CDATA[<h1 id="语法树概述"><a href="#语法树概述" class="headerlink" title="语法树概述"></a>语法树概述</h1><p>[toc]</p>
+<a id="more"></a>
+
 <h2 id="10-9-8"><a href="#10-9-8" class="headerlink" title="10+9+8"></a>10+9+8</h2><p>王菲语法 ‘10+9+8’<br>10 种词性<br>9 种成分<br>8 种句型5+3</p>
 <h1 id="第一部分-基础概念"><a href="#第一部分-基础概念" class="headerlink" title="第一部分 基础概念"></a>第一部分 基础概念</h1><h2 id="简单句"><a href="#简单句" class="headerlink" title="简单句"></a>简单句</h2><h3 id="1-陈述句"><a href="#1-陈述句" class="headerlink" title="1.陈述句"></a>1.陈述句</h3><h2 id="五种句型"><a href="#五种句型" class="headerlink" title="五种句型"></a>五种句型</h2><h4 id="主语-系动词-表语"><a href="#主语-系动词-表语" class="headerlink" title="主语+系动词+表语"></a>主语+系动词+表语</h4><p>London is the capital of England.</p>
 <h4 id="主语-谓语"><a href="#主语-谓语" class="headerlink" title="主语+谓语"></a>主语+谓语</h4><p>I get up early in the morning.</p>
@@ -27,6 +29,7 @@
     <title>02代词</title>
     <url>/2020/06/17/02%E4%BB%A3%E8%AF%8D/</url>
     <content><![CDATA[<p>代词</p>
+<p>[toc]</p>
 <a id="more"></a>
 
 <h1 id="代词"><a href="#代词" class="headerlink" title="代词"></a>代词</h1><ul>
@@ -290,6 +293,7 @@
     <title>01名词</title>
     <url>/2020/06/17/01%E5%90%8D%E8%AF%8D/</url>
     <content><![CDATA[<p>名词</p>
+<p>[toc]</p>
 <a id="more"></a>
 <h1 id="名词的分类"><a href="#名词的分类" class="headerlink" title="名词的分类"></a>名词的分类</h1><h2 id="1-1专有名词"><a href="#1-1专有名词" class="headerlink" title="1.1专有名词"></a>1.1专有名词</h2><p>例如<br>1）人名Tom，Smith，Jackie，Wang<br>2）地名 Beijing，Virginia，London<br>3）国家名Chna，Russia，Pakistan，The United states，The United Kingdom<br>4）单位名 the state council，the Ministry of Foreign Affairs，the Ministry of Finance<br>5）组织名 MF ASEAN EU OPEC<br>6）大型活动或事件 The belt and road，BR|CKS注意：专有名词第一个字母要大写  </p>
 <h2 id="1-2普通名词"><a href="#1-2普通名词" class="headerlink" title="1.2普通名词"></a>1.2普通名词</h2><table>
@@ -463,6 +467,340 @@
       </categories>
       <tags>
         <tag>爬虫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>07动词</title>
+    <url>/2020/07/20/07%E5%8A%A8%E8%AF%8D/</url>
+    <content><![CDATA[<p>动词<br>[toc]</p>
+<a id="more"></a>
+<h1 id="2-4"><a href="#2-4" class="headerlink" title="2+4"></a>2+4</h1><h2 id="5-动词语法-非谓语动词"><a href="#5-动词语法-非谓语动词" class="headerlink" title="5 动词语法-非谓语动词"></a>5 动词语法-非谓语动词</h2><blockquote>
+<p><strong>四有一不</strong><br>有主，宾，时态，语态<br>不能做谓语</p>
+</blockquote>
+<p><strong>非谓语动词有时态和语态的变化</strong></p>
+<ul>
+<li>现在式</li>
+<li>完成式</li>
+<li>进行式</li>
+<li>完成进行式</li>
+</ul>
+<h3 id="动名词"><a href="#动名词" class="headerlink" title="动名词"></a>动名词</h3><p>形式v-ing</p>
+<ul>
+<li>动名词与现在分词同形(v-ing)</li>
+<li>起到名词的作用</li>
+</ul>
+<p>用法</p>
+<ul>
+<li><p>主语</p>
+<ul>
+<li>Jogging is a hobby of mine.<br>慢跑是我的爱好。</li>
+<li>Reading helps you learn English.<br>阅读帮你学习英语。</li>
+</ul>
+</li>
+<li><p>宾语</p>
+<ul>
+<li>He quit smoking a year ago.<br>他一年前戒烟了。</li>
+<li>I look forward to helping you paint the house.<br>我期待帮你刷房子。</li>
+</ul>
+<p>  <strong>注意</strong>：it + 形容词 + 动名词   </p>
+<ul>
+<li>It is no use telling him not to worry.<br>告诉他别担心没有用。（作形式主语）<br>此类动词还包括 better，wonderfu，enjoyable，interesting，foolish，difficult，useless，senseless，worthwhile</li>
+</ul>
+</li>
+<li><p>表语</p>
+<ul>
+<li>My job is teaching.<br>我的工作是教书。  </li>
+<li>Seeing is believing.<br>眼见为实。  </li>
+</ul>
+</li>
+<li><p>定语<br>  a swimming pool= a pool for swimming 游泳池<br>  a moving truck 搬家汽车= a truck for moving<br>  drinking water 饮用水<br>  swimming suit 游泳衣<br>  sleeping pill 安眠药<br>  writing paper 信纸<br>  operating table 手术室<br>  reading room 阅览室<br>  washing machine 洗衣机<br>  washing powder 洗衣粉<br>  fishing pole 钓鱼杆</p>
+</li>
+</ul>
+<p>以下动词及句型后常跟动名词作宾语（查明词义并背诵）<br>be used to , can’t help  ,cant stand  ,end up  ,feel like  ,finish  ,get used to  ,give up  ,go on  ,have difficuty  ,have problems  ,have trouble  ,it s no use  ,it’s worthwhile    ,look forward to  ,spend time  ,waste time  ,be busy ,don’t mind  ,how about  ,afford  ,agree  ,appear  ,arrange  ,ask  ,care  ,decide ,demand  ,expect  ,fail  ,forget ,hope  ,learn  ,manage  mean  ,offer  ,plan  ,prepare  ,pretend  ,promise  ,refuse  ,remember  ,seem  ,stop  ,volunteer  ,wait   ,wish  ,worth  </p>
+<h3 id="分词"><a href="#分词" class="headerlink" title="分词"></a>分词</h3><p>现在分词的形式同动名词，在动词后面加-ing<br>过去分词的形式则在动词后面加-ed  </p>
+<h4 id="现在分词"><a href="#现在分词" class="headerlink" title="现在分词"></a>现在分词</h4><h5 id="形式"><a href="#形式" class="headerlink" title="形式"></a>形式</h5><ul>
+<li>v-ing</li>
+<li>有时态和语态的变化</li>
+<li>在句中相当于一个动词</li>
+<li>在句中可做定，状或表</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="left">现在分词</th>
+<th align="left">主动</th>
+<th align="left">被动</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">一般式</td>
+<td align="left">writing</td>
+<td align="left">being written</td>
+</tr>
+<tr>
+<td align="left">完成式</td>
+<td align="left">having written</td>
+<td align="left">having been written</td>
+</tr>
+</tbody></table>
+<ul>
+<li><p>一般式 表示动作与主语的动作同时发生</p>
+<ul>
+<li>Tom came sauntering up the path.<br>汤姆来了，在路上闲逛。</li>
+<li>Reaching for the flower，I lost my balance.<br>靠近花朵，我失去了平衡。</li>
+<li>Not being able to win the game，I lost my confidence.<br>没能赢得比赛，我失去了信心。</li>
+</ul>
+</li>
+<li><p>完成式 表示动作发生在谓语动词之前且已经完成</p>
+<ul>
+<li>Having heard the news，he quickly sold his brother’s record collection.<br>听完这个消息，他迅速卖了他哥哥收集的磁带。  </li>
+<li>Not having finished his work，he could not leave the office.<br>还没有完成工作，所以他不能离开办公室。  </li>
+</ul>
+</li>
+</ul>
+<h5 id="句法功能"><a href="#句法功能" class="headerlink" title="句法功能"></a>句法功能</h5><h3 id="动词不定式"><a href="#动词不定式" class="headerlink" title="动词不定式"></a>动词不定式</h3><h4 id="形式-1"><a href="#形式-1" class="headerlink" title="形式"></a>形式</h4><p>肯定式  to + 动词原形<br>否定式 not to + 动词原形</p>
+<table>
+<thead>
+<tr>
+<th align="left">形式</th>
+<th align="left">主动</th>
+<th align="left">被动</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">一般式</td>
+<td align="left">to do</td>
+<td align="left">to be done</td>
+</tr>
+<tr>
+<td align="left">进行式</td>
+<td align="left">to be doing</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">完成式</td>
+<td align="left">to have done</td>
+<td align="left">to have been done</td>
+</tr>
+<tr>
+<td align="left">完成进行式</td>
+<td align="left">to have been done</td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<h4 id="动词不定式的句法作用"><a href="#动词不定式的句法作用" class="headerlink" title="动词不定式的句法作用"></a>动词不定式的句法作用</h4><ol>
+<li><p>做主语<br>To learn is very important.<br>学习非常重要。<br>To drive in the right is not allowed here.右驾在这里不被允许。<br>To go to college is a good idea. 去上大学是一个好主意。<br>注意：<br>it is/was +adj + to do<br>It was difficult to answer the question. 很难回答这个问题。<br>it is/was+ n +to do<br>It’s a big house to clean. 有个大房子要清理。<br>it is/was+ adj +for something/somebody+ to do<br>It is necessary for this door to be locked.<br>锁门很重要。<br>it is/was+ adj +of sb + to do<br>It is very kind of you to help me.能帮我你太好了。<br>n + adj + to do<br>He was ashamed to speak to her again.再次和她说话，他感到很羞愧。  </p>
+</li>
+<li><p>作表语<br>The most important thing is not to give up. 最重要的事情是不要放弃。   </p>
+</li>
+<li><p>做宾语<br>I want to swim in the pool. 我想在泳池游泳。<br>The question was difficult to answer. 这个问题很难回答。<br>a good translator is hard to find. 很难找到一个好的翻译。  </p>
+</li>
+<li><p>作定语<br>Give him an ornament to polish. 给他件装饰品擦亮。<br>I need a volunteer to take the minutes. 我需要一位志愿者做记录。  </p>
+<blockquote>
+<p>无论什么东西作定都可以翻译成“的”这个汉字<br>定语和状语最本质的区别 <strong>有没有被修饰的名词</strong>  </p>
+</blockquote>
+</li>
+<li><p>作状语 </p>
+</li>
+</ol>
+<p><strong>表目的</strong><br>The officer returned to help. 工作人员返回来帮忙。<br>He will complete the mission to set an example. 他会完成任务，做表率。<br>I am going to the store to buy a 100-watt light bulb. 我打算去商店买一个100瓦特的灯泡 。<br><strong>表原因</strong><br>My parents will be happy to meet you. 见到你我父母很开心。<br>He was ashamed to speak to her again. 再次和她说话，他感到很羞愧。  </p>
+<p>常见带to的不定式<br>afraid amazed anxious ashamed bound careful certain content delighted determined eager eligible fortunate glad happy hesitant liable likely lucky pleased proud ready reluctant sad shocked sorry surprised lovep refer begin  </p>
+<h4 id="省略to的不定式"><a href="#省略to的不定式" class="headerlink" title="省略to的不定式"></a>省略to的不定式</h4><p>感官动词后see,hear,feel,watch等  </p>
+<p>I felt her heart beat. 我感觉到她的心跳。<br>I saw it happen. I watched it happen.<br>I’ll have her copy the document right away.<br>Our boss let us leave early.<br>That film made me cry.  </p>
+<p>注意：主动句中省略to 在被动句中要加to<br>使役动词make,let,have等后作宾补时省略to；动词help后作宾语补足语时的to可带可不带<br>当两个或者两个以上的动词不定式并列使用时，只有第一个不定式前带to，后面的省略to<br>I often help my friends (to) to buy food on the Internet.  我经常帮我的朋友在网上买食物。<br>The college’s aim is to help students (to) achieve their aspirations大学意在帮助学生实现志向。<br>I want to lie down and sleep.我想躺下睡觉。  </p>
+<h3 id="非谓语动词总结"><a href="#非谓语动词总结" class="headerlink" title="非谓语动词总结"></a>非谓语动词总结</h3><h4 id="总结一-动词和现在分词的区别"><a href="#总结一-动词和现在分词的区别" class="headerlink" title="总结一 动词和现在分词的区别"></a>总结一 动词和现在分词的区别</h4><p>动名词可以作<strong>主语</strong>，现在分词不可以<br>动名词可以作<strong>宾语</strong>，现在分词不可以<br>现在分词可以作<strong>状语</strong>，动名词不可以<br>都可以作<strong>表语</strong>（be动词之后），<strong>定语</strong>。  </p>
+<p>作表语<br>现在分词作表语主要用以说明主语的性质，不能和主语换位置。<br>the story is interesting.<br><strong>不可以</strong>改为 interesting is the story.  </p>
+<p>动名词与主语指的是同一件事，此时系动词相当于“是”，通常把主语和表语<strong>位置互换语法和意思不变</strong>。<br>my hobby is swimming.<br>可以改为swimming is my hobby.  </p>
+<p>作定语<br>动名词修饰名词时主要表示名词的<strong>用途</strong>。<br>现在分词修饰名词时表示<strong>状态或动作</strong>。<br>例1 a swimming boy 和 a swimming suit<br>现在分词swimming 表示被修饰名词boy的动词。 即：a boy who is swimming.<br>动名词“游泳衣”。即：a suit for swimming，表示suit的用途。<br>例1 a sleeping child 和 a sleeping car<br>(1)  现在分词：“一个正在睡觉的孩子”，即a child who is sleeping，表示被修饰的名词child正处于的状态；<br>(2)  “卧车（用来睡觉的车厢）”，即a car which is used for sleeping，表car的用途。  </p>
+<blockquote>
+<p>动名词有名词的含义<br>现在分词有动作的含义  </p>
+</blockquote>
+<h4 id="总结二-现在分词与过去分词的区别"><a href="#总结二-现在分词与过去分词的区别" class="headerlink" title="总结二 现在分词与过去分词的区别"></a>总结二 现在分词与过去分词的区别</h4><p>现在分词表示主动或正在进行<br>过去分词表被动已完成。<br>the rising sun  正在升起的太阳<br>the risen sun  升起的太阳<br>falling leaves  正在落的叶子<br>fallen leaves  落下叶子<br>boiling water  正在沸腾的水<br>boiled water  烧开了的水  </p>
+<h4 id="总结三-动名词与动词不定式的区别"><a href="#总结三-动名词与动词不定式的区别" class="headerlink" title="总结三 动名词与动词不定式的区别"></a>总结三 动名词与动词不定式的区别</h4><p>(1) 有些动词后跟名词和不定式均可，意义差别不大。<br>begin, continue, hate, intend, like, love, prefer, start  </p>
+<p>(2) 有些动词后面跟动名词和不定式均可，但意义差别较大。<br>forget to do sth<br>表示忘记要去做某事<br>forget doing stn<br>忘记做过某事<br>remember to do sth<br>记得要去做某事<br>emember doing sth<br>记得做过某事<br>stop to do sth<br>停下来去做另外一件事<br>stop doing sth<br>停下正在做的事情<br>regret to do sth<br>遗憾要去做某事<br>regret doing sth<br>遗憾做过某事<br>try to do sth<br>努力做某事<br>try doing sth<br>尝试做某事<br>mean to do sth<br>打算做某事<br>mean doing sth<br>意味着  </p>
+<h4 id="总结四-现在分词作定语"><a href="#总结四-现在分词作定语" class="headerlink" title="总结四 现在分词作定语"></a>总结四 现在分词作定语</h4><p>现在分词作定语，我们必须注意以下三点<br>第一点 <strong>两个动作一先一后而不是同时发生，用定语从句</strong><br>The teacher criticized the student having broken the window.  (×)<br>The teacher criticized the student who had broken the window.<br>Do you know anyone having lost a car?  (×)<br>Do you know anyone who have lost a car?  </p>
+<p>第二点 <strong>动词是be动词，用定语从句</strong><br>Anybody being outside after ten o’clock will be criticized.  (×)<br>Anybody who is outside after ten o’clock will be criticized.  </p>
+<p>第三点 经常性动作，用定语从句。<br>The boy bringing us milk everyday is my brother.<br>The boy who brings us milk everyday is my brother.  </p>
+<h4 id="总结五-现在分词作状语"><a href="#总结五-现在分词作状语" class="headerlink" title="总结五 现在分词作状语"></a>总结五 现在分词作状语</h4><p>现在分词作状语，我们必须注意以下四点  </p>
+<ol>
+<li>时间<ul>
+<li>同时发生时，用一般式</li>
+<li>先于谓语动词的动作时，现在分词要用完成式  </li>
+</ul>
+</li>
+</ol>
+<p>The secretary worked late into the night, preparing a long speech for the president.<br>He sent me an E-mail, hoping to get further information.  </p>
+<p>Having suffered from heart trouble for years, Professor White has to take some medicine with him whenever he goes.<br>Having finished his homework, the boy went out to play football.</p>
+<ol start="2">
+<li>主语<ul>
+<li>现在分词作状语，其逻辑主语与句子主语必须保持一致。</li>
+<li>如果不一致，分词应有自己的逻辑主语，构成独立主格结构。</li>
+</ul>
+</li>
+</ol>
+<p>Looking out of the window of our hotel room, we could see lots of mountains around.<br>They came into the classroom, talking and laughing.  </p>
+<blockquote>
+<p>独立主格结构<br>Smith being absent, the meeting had to be put off.<br>It being a fine day, we all wanted to go outing.</p>
+</blockquote>
+<ol start="3">
+<li>现在分词作状语时，前面可用连词 when,while,once等。  </li>
+</ol>
+<p><strong>When</strong> talking to you, I always feel happy.<br>Be careful <strong>while</strong> crossing the street.  </p>
+<ol start="4">
+<li>现在分词作状语时，与主语之间不能有连词 or,and,but<br>Having been told many times, <strong>but</strong> he still couldn’t understand it.(×)<br>Having been told many times, he still couldn’ t understand it.  </li>
+</ol>
+<h2 id="6-动词语法-虚拟语气"><a href="#6-动词语法-虚拟语气" class="headerlink" title="6 动词语法 - 虚拟语气"></a>6 动词语法 - 虚拟语气</h2><h3 id="语气"><a href="#语气" class="headerlink" title="语气"></a>语气</h3><ul>
+<li>语气是动词的一种形式；</li>
+<li>分为陈述语气，祈使语气和虚拟语气。</li>
+</ul>
+<p>陈述语气用来阐明事实、询问问题、表达意见。<br>任何动词的时态都可以用在陈述语气中。<br>I saw something today that really annoyed me.<br>我今天看见了一些让我非常生气的东西。<br>That is a beautiful painting.<br>那是一幅漂亮的画作。<br>How much wood does a woodchuck chuck？<br>如果土拨鼠会扔木头那它会扔多少木头？</p>
+<p>祈使语气表示命令和请求。<br>Keep reading.  接着读。<br>Do not forget your homework.<br>别忘了你的作业。</p>
+<h3 id="虚拟语气"><a href="#虚拟语气" class="headerlink" title="虚拟语气"></a>虚拟语气</h3><ul>
+<li>有条件或想象的场景。</li>
+<li>与现实情况相反。</li>
+<li>表达主观愿望强烈时。<blockquote>
+<p>非真实</p>
+</blockquote>
+</li>
+</ul>
+<p>If I were a rich man，then I would have all the money in the world.<br>如果我是一个有钱人，我就会拥有世界上所有的钱。<br>Had the man been driving carefully，he would not have crashed into the tree.<br>如果这个人开车时谨慎点，那他就不会撞上树了。  </p>
+<h4 id="if-引导非真实条件句"><a href="#if-引导非真实条件句" class="headerlink" title="if 引导非真实条件句"></a>if 引导非真实条件句</h4><table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="left">主语谓语动词</th>
+<th align="left">从句谓语动词</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">与<strong>现在</strong>相反</td>
+<td align="left">should/would/might/could + do</td>
+<td align="left">(1)一般过去时  (2)be动词用were</td>
+</tr>
+<tr>
+<td align="left">与<strong>过去</strong>相反</td>
+<td align="left">should/would/might/could + have done</td>
+<td align="left">had done</td>
+</tr>
+<tr>
+<td align="left">与<strong>将来</strong>相反</td>
+<td align="left">should/would/might/could + do</td>
+<td align="left">(1)were to do   (2)should + do   (3)动词一般过去式(be动词用were)</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>在连词之后的句子为从句<br>从句相对于主句后退一个时态<br>be动词在虚拟语气中没有单数形式</p>
+</blockquote>
+<h5 id="表示与现在相反的情况"><a href="#表示与现在相反的情况" class="headerlink" title="表示与现在相反的情况"></a>表示与现在相反的情况</h5><p>If I read six books at once，I would confuse all the plots and characters.<br>如果我现在同时读6本书，我会把所有的情节和人物混淆。<br>Even if he <strong>had</strong> a million dollars，he still would complain about not having enough.<br>即使他有现在有一百万，他还是会抱怨钱不够。  </p>
+<blockquote>
+<p>此处had是过去式<br>would 作为助动词没有含义</p>
+</blockquote>
+<h5 id="表示与过去相反的情况"><a href="#表示与过去相反的情况" class="headerlink" title="表示与过去相反的情况"></a>表示与过去相反的情况</h5><p>If her mother had taken the doctor’s advice，she would/might have got well earlier.<br>如果她妈妈当时采纳了医生的建议，她就会好得更早。<br>If you had worked harder，you would have got through the exams.<br>如果你当时努力学习，你当时就会通过考试了。  </p>
+<h5 id="表示与将来相反的情况"><a href="#表示与将来相反的情况" class="headerlink" title="表示与将来相反的情况"></a>表示与将来相反的情况</h5><p>If I were to win the lottery，I finally would buy a new car.<br>如果我将来中了彩票，我到时候就会买一辆新车。<br>If he were to be the next Picasso，I would be very happy to have known him for so long.<br>如果我将来成为下一个毕加索，认识他这么长时间我会非常开心。<br>If he were rich，he’d buy a house.<br>如果他将来变得富有，他就会买一栋房子。  </p>
+<blockquote>
+<p>可以理解为两种时间相反的情况<br>用动词为be时推荐 were to 或 should be<br>根据语境具体判断</p>
+</blockquote>
+<p>注意：if 引导<strong>真实</strong>条件句，不用虚拟语气。<br>If it rains tomorrow，we won’t go to a park.<br>如果明天下雨，我们就不去公园了。   </p>
+<blockquote>
+<p>主将从现</p>
+</blockquote>
+<h5 id="if-引导的非真实条件句的倒装"><a href="#if-引导的非真实条件句的倒装" class="headerlink" title="if 引导的非真实条件句的倒装"></a>if 引导的非真实条件句的倒装</h5><p>If it were rain tomorrow，our picnic would be canceled.<br>变为<br>Were it to rain tomorrow，our picnic would be canceled.  </p>
+<p>If it had not been for the storm，we would have arrived in time.<br>变为<br>Had it not been for the storm we would have arrived in time.  </p>
+<p>If the earth should stop running what would happen？<br>变为<br>Should the earth stop running，what would happen？    </p>
+<h5 id="错综时间条件句"><a href="#错综时间条件句" class="headerlink" title="错综时间条件句"></a>错综时间条件句</h5><p>在虚拟语气中，当动作和主句动作发生的时间<strong>不一致</strong>，需要根据句意对主从句所采用的虚拟语气时态进行变化。  </p>
+<p>If she had taken the doctor’s advice，she might still be alive.      </p>
+<blockquote>
+<p>从句过去事实相反，主句现在或将来事实相反。</p>
+</blockquote>
+<p>如果她当时采纳了医生的意见，她现在可能还活着。<br>If I were you，I would have accepted their terms.    </p>
+<p>如果我是你，我当时就会接受他们的条件。  </p>
+<p>If I hadn’t stood under the ladder to catch you when you fell，you wouldn’t be smiling now.<br>当你掉下来时，如果不是我在梯子下面把你接住，恐怕你现在就不会笑了。  </p>
+<h4 id="无if引导的虚拟语气"><a href="#无if引导的虚拟语气" class="headerlink" title="无if引导的虚拟语气"></a>无if引导的虚拟语气</h4><h5 id="含蓄虚拟条件句"><a href="#含蓄虚拟条件句" class="headerlink" title="含蓄虚拟条件句"></a>含蓄虚拟条件句</h5><ul>
+<li>介词短语</li>
+<li>根据上下文推测</li>
+</ul>
+<p><strong>Without</strong> air，there would be no living things.  </p>
+<p>没有空气，就没有活的物体。<br><strong>But for</strong> your help，I couldn’t have done it.  </p>
+<p>要不是你的帮助，我就不可能完成它。  </p>
+<p>We didn’t know his telephone number，<strong>otherwise</strong> we would have telephoned him.  </p>
+<p>我们不知道他的电话，否则，我们就给他打电话了。<br><strong>In that case</strong> we could have achieved our goal.  </p>
+<p>要是那样的话我们肯定就达成目标了。<br><strong>Under that condition</strong> we could have lived more comfortably.  </p>
+<p>如果在那种情况下我们本可以过的很舒适。  </p>
+<h5 id="名词性从句的虚拟语气"><a href="#名词性从句的虚拟语气" class="headerlink" title="名词性从句的虚拟语气"></a>名词性从句的虚拟语气</h5><p>wish + 宾语从句 “希望，但愿”</p>
+<ul>
+<li>表示对现在的虚拟：过去式</li>
+<li>表示对将来的虚拟：“would/could + 动词原形”</li>
+<li>表示对过去的虚拟：“had + 过去分词”</li>
+</ul>
+<p>I wish I were a bit taller.  </p>
+<p>我个子再高一点就好了。<br>wish I hadn’t eaten so much.  </p>
+<p>我真希望自己没吃那么多。  </p>
+<ul>
+<li>在表示建议、要求、愿望、命令、坚持、想法</li>
+</ul>
+<blockquote>
+<p>should + 动词原形   </p>
+<p>should 可以省略  但建议不要省略</p>
+</blockquote>
+<p>I suggested that he implement a budget cut in March.  </p>
+<p>我建议3月他开始缩减预算。<br>I demand that you be at school on time.  </p>
+<p>我要求你按时上学。<br>I recommend that Sammi do her homework at home.  </p>
+<p>我建议萨米在家做作业。<br>They insisted that all swear words be deleted from the article.  </p>
+<p>他们坚决要求删除文章中所有誓言相关的话语。  </p>
+<blockquote>
+<p><strong>注意</strong> suggest，insist等表示“暗示”、“坚持”时，后不用虚拟语气</p>
+</blockquote>
+<p>He suggests that I am not suited for the job.  </p>
+<p>他暗示我不适合这份工作。<br>He insisted that he was innocent.<br>他坚持说自己是无辜的。  </p>
+<ul>
+<li>在would rather,would(just) as soon,would sooner,would prefer 后的宾语从句（宁愿）<ul>
+<li>对现在或将来的虚拟：did</li>
+<li>对过去的虚拟： had done</li>
+</ul>
+</li>
+</ul>
+<p>I’d rather you came another time.  </p>
+<p>我宁愿你下次来。<br>She would rather he weren’t so angry.<br>她情愿他不那么生气。<br>I would just as soon you had told me the truth yesterday.  </p>
+<p>我宁愿你昨天告诉我真相。  </p>
+<h5 id="主语从句的虚拟语气"><a href="#主语从句的虚拟语气" class="headerlink" title="主语从句的虚拟语气"></a>主语从句的虚拟语气</h5><p>It is + 形容词 + that 从句中，谓语动词用“(should) + 动词原形”</p>
+<p>It is necessary that the issue (should) be addressed.  </p>
+<p>必须解决这个问题。<br>It is proper that law should govern any one of the citizens.  </p>
+<p>法律应制裁以下的任何人。  </p>
+<p>It’s time that 句型</p>
+<p>It is high time you started off.  是你该动身的时候了。<br>It’s high time that we left.  是我们该走的时候了。  </p>
+<h5 id="状语从句中的虚拟语气"><a href="#状语从句中的虚拟语气" class="headerlink" title="状语从句中的虚拟语气"></a>状语从句中的虚拟语气</h5><ul>
+<li>if only 从句<ul>
+<li>对现在的虚拟：过去式</li>
+<li>对将来的虚拟：would/could + 动原</li>
+<li>对过去的虚拟：had + 过去分词</li>
+</ul>
+</li>
+</ul>
+<p>If only we could just get on and read it and forget about all the other stuff.  </p>
+<p>要是我们能够继续读下去并且忘记所有其他的员工就好了。<br>If only I knew the answer，I’d tell you.  </p>
+<p>要是我知道答案，我就告诉你。<br>If only I had revised more，I would have done better on my exam.  </p>
+<p>倘若我做更多的修正，我考试成绩就会更好。  </p>
+<ul>
+<li><p>as if 从句</p>
+<ul>
+<li>对现在的虚拟：一般过去式</li>
+<li>对过去的虚拟：had + 过去分词</li>
+<li>对将来的虚拟：would (could,might) + 动词原形</li>
+</ul>
+<p>He talks as if he knew her. 他说话的样子，好像他认识她。<br>It looks as if it might rain. 看起来好像要下雨了。</p>
+</li>
+</ul>
+<h5 id="情态动词-have-done"><a href="#情态动词-have-done" class="headerlink" title="情态动词 + have done"></a>情态动词 + have done</h5><p>I shouldn’t have interfered.   </p>
+<p>我不应该打断。（事实上已经打断了）</p>
+<p>You should have taken my advice.  </p>
+<p>你本应该采纳我的意见。（事实上没有采纳）</p>
+]]></content>
+      <categories>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>英语</tag>
+        <tag>语法</tag>
       </tags>
   </entry>
 </search>

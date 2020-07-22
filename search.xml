@@ -139,46 +139,278 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/06/10/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+    <title>02代词</title>
+    <url>/2020/06/17/02%E4%BB%A3%E8%AF%8D/</url>
+    <content><![CDATA[<p>代词</p>
+<p>[toc]</p>
 <a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<h1 id="代词"><a href="#代词" class="headerlink" title="代词"></a>代词</h1><ul>
+<li>指代已经提到的或是即将提到的人或物。  </li>
+<li>代替所提到的名词或名词性短语。  </li>
+<li>在句中可以做主语，宾语，表语或同位语。  </li>
+</ul>
+<p><strong>It</strong> is a table.（做主语）<br><strong>I</strong> asked myself what I would have done in such a situation.（做宾语）<br>The boys <strong>all</strong> laughed their heads off.（做同位语）<br>Who’s <strong>that</strong>？（做表语）  </p>
+<table>
+<thead>
+<tr>
+<th align="left">人称</th>
+<th align="left">单复数</th>
+<th align="left">主格</th>
+<th align="left">宾格</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">第一人称</td>
+<td align="left">单数</td>
+<td align="left">I</td>
+<td align="left">me</td>
+</tr>
+<tr>
+<td align="left">第一人称</td>
+<td align="left">复数</td>
+<td align="left">we</td>
+<td align="left">us</td>
+</tr>
+<tr>
+<td align="left">第二人称</td>
+<td align="left">单数</td>
+<td align="left">you</td>
+<td align="left">you</td>
+</tr>
+<tr>
+<td align="left">第二人称</td>
+<td align="left">复数</td>
+<td align="left">you</td>
+<td align="left">you</td>
+</tr>
+<tr>
+<td align="left">第三人称</td>
+<td align="left">单数</td>
+<td align="left">he,she,it</td>
+<td align="left">him,her,it</td>
+</tr>
+<tr>
+<td align="left">第三人称</td>
+<td align="left">复数</td>
+<td align="left">they</td>
+<td align="left">them</td>
+</tr>
+</tbody></table>
+<h1 id="2人称代词的句法作用"><a href="#2人称代词的句法作用" class="headerlink" title="2人称代词的句法作用"></a>2人称代词的句法作用</h1><p>(1)<br>I asked my mother if she’d lend me some money，but she said no.我问母亲能否借我点钱，她没有答应。（she指代前面出现过的 my mother）<br>I’ve known the Browns for a long time.they’re very nice people.我认识布朗一家已经很久了。他们都很友善。<br>（They指代前面出现过的 the Browns）<br>If you don’t hurry up we’ll be late.你不抓紧的话我们就要迟到了。  </p>
+<p>(2)<br>Neither of us forgot about it.我俩都没忘记它。<br>Is Sam there？Let me talk to him.萨姆在吗？让我和他谈谈。<br>We’re going to call her Sophie.我们打算称呼她苏菲。<br>Tell them the news.告诉他们这条消息。  </p>
+<p>(3)<br>That must be <strong>her</strong> now.现在那肯定是她。<br>Who is <strong>it</strong>？是谁？  </p>
+<p>(4)<br>1 指上文提及的某一物体、动物或其他事物。<br><strong>The company</strong> was losing money and <strong>it</strong> had to let people go.该公司在亏损，所以不得不裁员。  </p>
+<p>it做形式主语，宾语。  </p>
+<p>2 尚不知道性别的婴儿。<br>She could compel him to support <strong>the child</strong> after <strong>it</strong> was born.<br>她可以迫使他在孩子出生后抚养孩子。<br>Her baby’s due next month.She hopes it will be a boy.<br>她的孩子下月就要出生了，她希望是个男孩。  </p>
+<p>3 指时间，距离，天气或环境等。<br>It’s ten past twelve.<br>12点10分。现在是12点10分。<br>It’s time for lunch.<br>是该吃午饭的时候了。<br>It is raining.<br>天正在下雨。<br>It’s two miles to the beach.<br>距离海滩2英里远。  </p>
+<p>4 指已经发生或正在发生的事件或情况。<br>When the factory closes，<strong>it</strong> will mean 500 people losing their jobs.工厂倒闭就意味着500人要下岗了。<br>Yes，I was at home on Sunday.What about <strong>it</strong>？（=Why do you ask？<br>是，我周日在家，怎么了？<br>Stop it，you’re hurting me.停下来，你打到我了。  </p>
+<p>5 识别，辨别人。<br><strong>It</strong>’s your mother on the phone.是你妈打的电话。<br>Hello，Peter，<strong>it</strong>‘s Mike here.你好，彼特，我是麦克。<br>Was <strong>it</strong> you who put these books on my desk？<br>是你把这些书放在我桌子上的吗？  </p>
+<p>6 强调句<br><strong>It</strong>‘s Spain that they’re going to，not Portugal.他们去的是西班牙，不是葡萄牙。<br><strong>It</strong> was three weeks later that he heard the news.三周后，他才得知这个消息。<br>*<em>详见强调句 *</em> </p>
+<h1 id="二-物主代词"><a href="#二-物主代词" class="headerlink" title="二 物主代词"></a>二 物主代词</h1><h2 id="1-定义"><a href="#1-定义" class="headerlink" title="1 定义"></a>1 定义</h2><p>(1)形容词性物主代词<br>my，your，his，her，their，its<br>I want my own car.<br>Anyone who drives <strong>his</strong> car at 100 miles an hour is asking for trouble.  </p>
+<p>(2)名词性物主代词<br>| 单数 |mine   | yours  |his/her|<br>|:——-|:——-|:——-|:——-|<br>|复数  |ours  |yours   |theirs |</p>
+<p>He’s a friend of <strong>mine</strong> ( =one of my friends Which table is ours?<br>think she’s a relation of <strong>theirs</strong>.  </p>
+<p>指代清楚时用名词性物主代词。  </p>
+<h2 id="句法功能"><a href="#句法功能" class="headerlink" title="句法功能"></a>句法功能</h2><p>(1) 形容词性物主代词：句中做定语，修饰名词。<br>Your mother is driving me crazy.你母亲快把我逼疯了。<br>James has sold his car.詹姆斯卖了他的车。<br><strong>注意：在动名词的复合结构中，形容词性物主代词做名词的逻辑主语。</strong>  </p>
+<p>She was somewhat surprised at <strong>my</strong> asking（=that I asked）for the book to be returned.我要她还书她感到相当惊讶。<br>Did Chris tell you about <strong>his</strong> winning some money in the lottery.克里斯告诉你他买彩票中奖了吗？  </p>
+<p>（2）名词性物主代词<br><strong>主语</strong><br>Ours is the red car parked over there.我们的车是停在那边那辆红色的。<br>Theirs are the children with very fair hair.他们的孩子有一头金色的头发。<br><strong>表语</strong><br>“Whose bag is this？””<strong>Its</strong> mine.”<br>“这是谁的包？”是我的<br>Is that book <strong>yours</strong>？<br>那本书是你的吗？  </p>
+<p><strong>宾语</strong><br>Let’s go back to <strong>yours</strong> after the show.秀场结束后我们去你家。<br>I will clean my house and you clean yours.我打扫我的房子，你打扫你的。<br>of+名词性物主代词连用做定语，为双重所有格，表示所涉及的某个群体中的一位。<br>a friend of hers她的一位朋友（= one of her friends）<br>He’s a cousin of ours.他是我们的一个表兄。（= one of our cousins）  </p>
+<h1 id="反身代词"><a href="#反身代词" class="headerlink" title="反身代词"></a>反身代词</h1><p>表“自己”<br>有人称和数的变化  </p>
+<table>
+<thead>
+<tr>
+<th align="left">人称</th>
+<th align="left">单数</th>
+<th align="left">复数</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">第一人称</td>
+<td align="left">myself</td>
+<td align="left">ourselves</td>
+</tr>
+<tr>
+<td align="left">第二人称</td>
+<td align="left">youself</td>
+<td align="left">yourselves</td>
+</tr>
+<tr>
+<td align="left">第三人称</td>
+<td align="left">himself,herself,itself</td>
+<td align="left">themselvs</td>
+</tr>
+</tbody></table>
+<p>Be careful with that knife or you’ll cut <strong>yourself</strong>！<br>用那把刀要当心，否则你会弄伤自己的！<br>They asked <strong>themselves</strong> where they had gone wrong.他们在反省自己哪儿出错了  </p>
+<p>小结：人称，物主，反身代词<br>|人称|单复数|主格|宾格|形容词性物主代词|名词性物主代词|反身代词|<br>|:——-|:——-|:——-|:——-|:——-|:——-|:——-|<br>|第一人称|单数|I|me|my|mine|myself|<br>|第二人称|单数|you|you|your|yours|yourself|<br>|第三人称|单数|he,she,it|him,her,it|his,her,its|his,<strong>hers</strong>,its|himself,herself,itself|<br>|第一人称|复数|we|us|our|ours|ourselves|<br>|第二人称|复数|you|you|your|yours|youselves|<br>|第三人称|复数|they|them|their|theirs|themselves|</p>
+<h1 id="指示代词"><a href="#指示代词" class="headerlink" title="指示代词"></a>指示代词</h1><ul>
+<li>this,that,these,those做代词时为指示代词</li>
+<li>表示“这个，那个，这些，那些”</li>
+<li>在句中做主语，宾语</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="left">单数</th>
+<th align="left">this</th>
+<th align="left">that</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">复数</td>
+<td align="left">these</td>
+<td align="left">those</td>
+</tr>
+</tbody></table>
+<h2 id="句法功能-1"><a href="#句法功能-1" class="headerlink" title="句法功能"></a>句法功能</h2><ul>
+<li>(1) 作主语</li>
+</ul>
+<p><strong>These</strong> are too heavy for me to carry.这些太重了，我拿不动。<br><strong>This</strong> is the one I want.这就是我要的那个。</p>
+<ul>
+<li><p>(2) 作宾语<br>I like this better than <strong>that</strong>.我喜欢这个多于那个。<br>I don’t say no to <strong>that</strong>.我并未拒绝那个。<br>here is no fear of <strong>that</strong>.那并不可怕。 </p>
+</li>
+<li><p>(3) 作定语<br>Can I help you with those bags？我可以帮忙提这些包吗？<br>I’ve never liked that cousin of hers.我从来没喜欢过她的那个表亲。  </p>
+</li>
+<li><p>(4) 作表语<br>Who’s that？Is that the girl you told me about？<br>那是谁？是你跟我说起过的那个女孩吗？<br>What’s this？Is this what you’re looking for？<br>这是什么？这是你要找的吗？  </p>
+</li>
+</ul>
+<h2 id="用法"><a href="#用法" class="headerlink" title="用法"></a>用法</h2><ul>
+<li>(1) <strong>this和these</strong>指在时间和空间上较近的人或物，<strong>that和those</strong>指在时间和空间上较远的人或者事物。<br>This is a pen and that’s an eraser这是一支笔，那是块橡皮擦。<br>This is a boy and those are girls.这是个男孩，那些是女孩。  </li>
+</ul>
+<ul>
+<li>(2) 为了<strong>避免重复</strong>，用that或those来代替前面已经提到的人或者物；<br>用this或these来代替下文中将要提的人或物。<br>She’s very friendly，and that is why we all love her.她很友善，这就是我们都喜欢她的原因。<br>You needn’t do this – It’s pretty easy.你不必做这事，那相当容易。  </li>
+<li>(3) 打电话介绍自己时用<strong>this</strong>指“我”，不用I；<br>询问对方用<strong>that</strong>指“你”，不用you。<br>Hello.This is Mary.Who’s that？喂，我是玛丽。你是谁？<br>This is Ton.我是汤姆  </li>
+</ul>
+<h1 id="五-关系代词"><a href="#五-关系代词" class="headerlink" title="五 关系代词"></a>五 关系代词</h1><ol>
+<li>用来引导定语从句  </li>
+<li>在从句中充当一定的<strong>句子成分</strong>  </li>
+<li>关系代词有主语，<strong>宾格和属格</strong>之分</li>
+<li>有指人与物之分</li>
+</ol>
+<blockquote>
+<p>属格的别名所有格</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="left">指人</th>
+<th align="left">who,whom,whose,that,as</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">指物</td>
+<td align="left">which,whose,that,as</td>
+</tr>
+</tbody></table>
+<h1 id="六-连接代词"><a href="#六-连接代词" class="headerlink" title="六 连接代词"></a>六 连接代词</h1><p>疑问代词在引起从句时，都称为连接代词，包括who，whom，Whose，what，which，whoever，whomever，whichever，whatever  </p>
+<h1 id="七-不定代词"><a href="#七-不定代词" class="headerlink" title="七 不定代词"></a>七 不定代词</h1><ol>
+<li>合成不定代词  </li>
+</ol>
+<table>
+<thead>
+<tr>
+<th align="left">someone 某人</th>
+<th align="left">anyone 任何人</th>
+<th align="left">everyone 人人</th>
+<th align="left">no one 没有人</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">somebody 某人</td>
+<td align="left">anybody 任何人</td>
+<td align="left">everybody 人人</td>
+<td align="left">nobody 没有人</td>
+</tr>
+<tr>
+<td align="left">something 某样东西</td>
+<td align="left">anything 任何东西</td>
+<td align="left">everything 一切</td>
+<td align="left">nothing 没有东西</td>
+</tr>
+</tbody></table>
+<ol start="2">
+<li>第二类不定代词</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th align="left">some</th>
+<th align="left">either</th>
+<th align="left">little</th>
+<th align="left">other</th>
+<th align="left">many</th>
+<th align="left">each</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">any</td>
+<td align="left">neither</td>
+<td align="left">a little</td>
+<td align="left">others</td>
+<td align="left">much</td>
+<td align="left">both</td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left">none</td>
+<td align="left">few</td>
+<td align="left">another</td>
+<td align="left">more</td>
+<td align="left">every</td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">a few</td>
+<td align="left">the other</td>
+<td align="left">most</td>
+<td align="left">all</td>
+</tr>
+</tbody></table>
+<p><strong>注意</strong>：</p>
+<ul>
+<li>合成不定代词谓语动词用<strong>单数</strong><br>Theres something sharp in my shoes.我的鞋子里有个尖东西。<br>There’<strong>s</strong> someone outside the house.屋子外面有人。  </li>
+</ul>
+<p><strong>Nobody</strong> agree<strong>s</strong> with me.没人同意我的看法。 </p>
+<ul>
+<li>-thing结尾指物；-one，body结尾指人<br>Everyone involved in the accident has been questioned by the police.事故牵涉到的毎个人都被警方盘问过。<br>She could be anything（=any age）between 30 and 40. 她的年龄介于30到40岁之间。<br>No one told me she was ill. 没人告诉我她病了。  </li>
+</ul>
+<h2 id="3-合成不定代词句法功能"><a href="#3-合成不定代词句法功能" class="headerlink" title="3 合成不定代词句法功能"></a>3 合成不定代词句法功能</h2><ul>
+<li><p>(1) 作主语<br>Anybody can use the pool-you don’t need to be a member.谁都能用泳池——你不必成为会员。<br>Somebody in the office will know.办公室的有些人将会知道。  </p>
+</li>
+<li><p>(2) 作宾语<br>The terrorists forced everybody to lie face down on the floor.<br>恐怖分子迫使每个人都面朝地趴下。<br>You can’t <strong>blame</strong> him <strong>for</strong> everything.你不能什么事都怪他。 </p>
+</li>
+<li><p>(3) 作表语<br>At first I thought there was no one in the room.起初我以为房间里没人。<br>There’s never anything worth watching on TV.电视上没什么值得看的东西。  </p>
+</li>
+<li><p>(4) 与else连用：已经谈及的人或物，又想再提到的另外的人或物，可在合成不定代词后加”-else”<br>You’ll have to ask someone else.你得问问别人。<br>There’s nothing else we can do to help.我们帮不上什么别的忙。<br>注意：合成不定代词前<strong>不能加定语</strong>，如表示限定，需在其<strong>后</strong>在限定词。  </p>
+</li>
+</ul>
+<p>an important somebody（x）<br>somebody important（√）<br>常用短语（背诵）<br>a）anything but = definitely not<br>b）be/have nothing to do with somebody/something = to have no connection with somebody/something<br>c）nothing but = only<br>d）nothing like（informal） = not at all  </p>
+<h2 id="many，much，more，most，few，little用法"><a href="#many，much，more，most，few，little用法" class="headerlink" title="many，much，more，most，few，little用法"></a>many，much，more，most，few，little用法</h2><p>All she wanted was <strong>a few</strong> moments on her own. 一些<br>She had <strong>few</strong> moments on her own.一点儿<br>She saves <strong>a little</strong> money every month. 一些<br>They had <strong>little</strong> money to spend. 不多  </p>
+<blockquote>
+<p>有a 肯<br>没a 否<br>小样的，不可数</p>
+</blockquote>
+<p>I don’ t earn <strong>much</strong> money. 多<br>Would you like some <strong>more</strong> food?  更多<br>Many people would disagree with your ideas. 许多<br>In this school, most of the children are from the Chinese community. 大多数的  </p>
+<h2 id="5-some，any，either用法（背诵）"><a href="#5-some，any，either用法（背诵）" class="headerlink" title="5 some，any，either用法（背诵）"></a>5 some，any，either用法（背诵）</h2><ul>
+<li>(1) some用于肯定句中，表示一些。</li>
+</ul>
 ]]></content>
       <categories>
-        <category>未分类</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>spider-summary</title>
-    <url>/2020/06/14/summary/</url>
-    <content><![CDATA[<h1 id="自己写的爬虫总结"><a href="#自己写的爬虫总结" class="headerlink" title="自己写的爬虫总结"></a>自己写的爬虫总结</h1><p>文章可能首次发表于吾爱破解论坛，以下账户也是本人<br><a href="https://www.52pojie.cn/home.php?mod=space&amp;uid=965057" target="_blank" rel="noopener">https://www.52pojie.cn/home.php?mod=space&amp;uid=965057</a></p>
-<h2 id="微博模拟登录"><a href="#微博模拟登录" class="headerlink" title="微博模拟登录"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/weibo_login.md" target="_blank" rel="noopener">微博模拟登录</a></h2><p>RSA/PKCS1_v1_5<br>用python的pycryptodome或rsa库都可以实现<br>下载验证码图片手动输入结果（若有接码平台或机器学习训练的模型可以接入）  </p>
-<a id="more"></a>
-<h2 id="微博图片批量下载"><a href="#微博图片批量下载" class="headerlink" title="微博图片批量下载"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/weibo.md" target="_blank" rel="noopener">微博图片批量下载</a></h2><p>用asyncio + aiohttp异步下载图片  </p>
-<h2 id="网易云音乐评论爬虫"><a href="#网易云音乐评论爬虫" class="headerlink" title="网易云音乐评论爬虫"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/netease_comments.md" target="_blank" rel="noopener">网易云音乐评论爬虫</a></h2><p>params和encSecKey参数<br>AES/CBC  </p>
-<pre><code>pad = lambda s: s + (16 - len(s) % 16) * chr(16 - len(s) % 16)</code></pre><p>RSA/nopading  </p>
-<h2 id="网易云音乐下载"><a href="#网易云音乐下载" class="headerlink" title="网易云音乐下载"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/netease_music.md" target="_blank" rel="noopener">网易云音乐下载</a></h2><p>nodejs express<br>params和encSecKey参数<br>直接扣代码补全缺少的环境即可<br>Crypto-js库用npm安装  </p>
-<h2 id="抖音web-signature"><a href="#抖音web-signature" class="headerlink" title="抖音web signature"></a><a href="https://github.com/skygongque/douyin_signature" target="_blank" rel="noopener">抖音web signature</a></h2><p>nodejs express puppeteer<br>1.得到指定uid请求返回的tac<br>2.puppeteer驱动chromium<br>在console中执行签名算法得到signature  </p>
-<h2 id="喜马拉雅有声书爬虫"><a href="#喜马拉雅有声书爬虫" class="headerlink" title="喜马拉雅有声书爬虫"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/ximalay_node.md" target="_blank" rel="noopener">喜马拉雅有声书爬虫</a></h2><p>纯JavaScript爬虫<br>通过fileId和ep等参数还原真实地址<br>直接扣代码即可  </p>
-<h2 id="喜马拉雅模拟登录"><a href="#喜马拉雅模拟登录" class="headerlink" title="喜马拉雅模拟登录"></a><a href="https://github.com/skygongque/login-ximalaya" target="_blank" rel="noopener">喜马拉雅模拟登录</a></h2><p>opencv-python 识别滑块验证码的缺口识别成功率约 60-70%<br>参考腾讯防水墙缺口的识别算法简单修改<br>因为喜马拉雅滑块没有检测轨迹，只对post的缺口位置经过简单的偏移<br>可以实现此滑动验证码的突破</p>
-]]></content>
-      <categories>
-        <category>爬虫</category>
+        <category>英语</category>
       </categories>
       <tags>
-        <tag>爬虫</tag>
+        <tag>英语</tag>
+        <tag>语法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>demo</title>
+    <url>/2020/06/14/demo/</url>
+    <content><![CDATA[<h1 id="github地址"><a href="#github地址" class="headerlink" title="github地址"></a>github地址</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;github.com&#x2F;skygongque</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
@@ -516,14 +748,46 @@
       </tags>
   </entry>
   <entry>
-    <title>demo</title>
-    <url>/2020/06/14/demo/</url>
-    <content><![CDATA[<h1 id="github地址"><a href="#github地址" class="headerlink" title="github地址"></a>github地址</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;github.com&#x2F;skygongque</span><br></pre></td></tr></table></figure>]]></content>
+    <title>Hello World</title>
+    <url>/2020/06/10/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
       <categories>
-        <category>测试</category>
+        <category>未分类</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>spider-summary</title>
+    <url>/2020/06/14/summary/</url>
+    <content><![CDATA[<h1 id="自己写的爬虫总结"><a href="#自己写的爬虫总结" class="headerlink" title="自己写的爬虫总结"></a>自己写的爬虫总结</h1><p>文章可能首次发表于吾爱破解论坛，以下账户也是本人<br><a href="https://www.52pojie.cn/home.php?mod=space&amp;uid=965057" target="_blank" rel="noopener">https://www.52pojie.cn/home.php?mod=space&amp;uid=965057</a></p>
+<h2 id="微博模拟登录"><a href="#微博模拟登录" class="headerlink" title="微博模拟登录"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/weibo_login.md" target="_blank" rel="noopener">微博模拟登录</a></h2><p>RSA/PKCS1_v1_5<br>用python的pycryptodome或rsa库都可以实现<br>下载验证码图片手动输入结果（若有接码平台或机器学习训练的模型可以接入）  </p>
+<a id="more"></a>
+<h2 id="微博图片批量下载"><a href="#微博图片批量下载" class="headerlink" title="微博图片批量下载"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/weibo.md" target="_blank" rel="noopener">微博图片批量下载</a></h2><p>用asyncio + aiohttp异步下载图片  </p>
+<h2 id="网易云音乐评论爬虫"><a href="#网易云音乐评论爬虫" class="headerlink" title="网易云音乐评论爬虫"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/netease_comments.md" target="_blank" rel="noopener">网易云音乐评论爬虫</a></h2><p>params和encSecKey参数<br>AES/CBC  </p>
+<pre><code>pad = lambda s: s + (16 - len(s) % 16) * chr(16 - len(s) % 16)</code></pre><p>RSA/nopading  </p>
+<h2 id="网易云音乐下载"><a href="#网易云音乐下载" class="headerlink" title="网易云音乐下载"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/netease_music.md" target="_blank" rel="noopener">网易云音乐下载</a></h2><p>nodejs express<br>params和encSecKey参数<br>直接扣代码补全缺少的环境即可<br>Crypto-js库用npm安装  </p>
+<h2 id="抖音web-signature"><a href="#抖音web-signature" class="headerlink" title="抖音web signature"></a><a href="https://github.com/skygongque/douyin_signature" target="_blank" rel="noopener">抖音web signature</a></h2><p>nodejs express puppeteer<br>1.得到指定uid请求返回的tac<br>2.puppeteer驱动chromium<br>在console中执行签名算法得到signature  </p>
+<h2 id="喜马拉雅有声书爬虫"><a href="#喜马拉雅有声书爬虫" class="headerlink" title="喜马拉雅有声书爬虫"></a><a href="https://github.com/skygongque/Spider/tree/master/introduction/ximalay_node.md" target="_blank" rel="noopener">喜马拉雅有声书爬虫</a></h2><p>纯JavaScript爬虫<br>通过fileId和ep等参数还原真实地址<br>直接扣代码即可  </p>
+<h2 id="喜马拉雅模拟登录"><a href="#喜马拉雅模拟登录" class="headerlink" title="喜马拉雅模拟登录"></a><a href="https://github.com/skygongque/login-ximalaya" target="_blank" rel="noopener">喜马拉雅模拟登录</a></h2><p>opencv-python 识别滑块验证码的缺口识别成功率约 60-70%<br>参考腾讯防水墙缺口的识别算法简单修改<br>因为喜马拉雅滑块没有检测轨迹，只对post的缺口位置经过简单的偏移<br>可以实现此滑动验证码的突破</p>
+]]></content>
+      <categories>
+        <category>爬虫</category>
       </categories>
       <tags>
-        <tag>测试</tag>
+        <tag>爬虫</tag>
       </tags>
   </entry>
   <entry>
@@ -564,270 +828,6 @@
         <tag>机器学习</tag>
         <tag>python</tag>
         <tag>pytorch</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>02代词</title>
-    <url>/2020/06/17/02%E4%BB%A3%E8%AF%8D/</url>
-    <content><![CDATA[<p>代词</p>
-<p>[toc]</p>
-<a id="more"></a>
-
-<h1 id="代词"><a href="#代词" class="headerlink" title="代词"></a>代词</h1><ul>
-<li>指代已经提到的或是即将提到的人或物。  </li>
-<li>代替所提到的名词或名词性短语。  </li>
-<li>在句中可以做主语，宾语，表语或同位语。  </li>
-</ul>
-<p><strong>It</strong> is a table.（做主语）<br><strong>I</strong> asked myself what I would have done in such a situation.（做宾语）<br>The boys <strong>all</strong> laughed their heads off.（做同位语）<br>Who’s <strong>that</strong>？（做表语）  </p>
-<table>
-<thead>
-<tr>
-<th align="left">人称</th>
-<th align="left">单复数</th>
-<th align="left">主格</th>
-<th align="left">宾格</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">第一人称</td>
-<td align="left">单数</td>
-<td align="left">I</td>
-<td align="left">me</td>
-</tr>
-<tr>
-<td align="left">第一人称</td>
-<td align="left">复数</td>
-<td align="left">we</td>
-<td align="left">us</td>
-</tr>
-<tr>
-<td align="left">第二人称</td>
-<td align="left">单数</td>
-<td align="left">you</td>
-<td align="left">you</td>
-</tr>
-<tr>
-<td align="left">第二人称</td>
-<td align="left">复数</td>
-<td align="left">you</td>
-<td align="left">you</td>
-</tr>
-<tr>
-<td align="left">第三人称</td>
-<td align="left">单数</td>
-<td align="left">he,she,it</td>
-<td align="left">him,her,it</td>
-</tr>
-<tr>
-<td align="left">第三人称</td>
-<td align="left">复数</td>
-<td align="left">they</td>
-<td align="left">them</td>
-</tr>
-</tbody></table>
-<h1 id="2人称代词的句法作用"><a href="#2人称代词的句法作用" class="headerlink" title="2人称代词的句法作用"></a>2人称代词的句法作用</h1><p>(1)<br>I asked my mother if she’d lend me some money，but she said no.我问母亲能否借我点钱，她没有答应。（she指代前面出现过的 my mother）<br>I’ve known the Browns for a long time.they’re very nice people.我认识布朗一家已经很久了。他们都很友善。<br>（They指代前面出现过的 the Browns）<br>If you don’t hurry up we’ll be late.你不抓紧的话我们就要迟到了。  </p>
-<p>(2)<br>Neither of us forgot about it.我俩都没忘记它。<br>Is Sam there？Let me talk to him.萨姆在吗？让我和他谈谈。<br>We’re going to call her Sophie.我们打算称呼她苏菲。<br>Tell them the news.告诉他们这条消息。  </p>
-<p>(3)<br>That must be <strong>her</strong> now.现在那肯定是她。<br>Who is <strong>it</strong>？是谁？  </p>
-<p>(4)<br>1 指上文提及的某一物体、动物或其他事物。<br><strong>The company</strong> was losing money and <strong>it</strong> had to let people go.该公司在亏损，所以不得不裁员。  </p>
-<p>it做形式主语，宾语。  </p>
-<p>2 尚不知道性别的婴儿。<br>She could compel him to support <strong>the child</strong> after <strong>it</strong> was born.<br>她可以迫使他在孩子出生后抚养孩子。<br>Her baby’s due next month.She hopes it will be a boy.<br>她的孩子下月就要出生了，她希望是个男孩。  </p>
-<p>3 指时间，距离，天气或环境等。<br>It’s ten past twelve.<br>12点10分。现在是12点10分。<br>It’s time for lunch.<br>是该吃午饭的时候了。<br>It is raining.<br>天正在下雨。<br>It’s two miles to the beach.<br>距离海滩2英里远。  </p>
-<p>4 指已经发生或正在发生的事件或情况。<br>When the factory closes，<strong>it</strong> will mean 500 people losing their jobs.工厂倒闭就意味着500人要下岗了。<br>Yes，I was at home on Sunday.What about <strong>it</strong>？（=Why do you ask？<br>是，我周日在家，怎么了？<br>Stop it，you’re hurting me.停下来，你打到我了。  </p>
-<p>5 识别，辨别人。<br><strong>It</strong>’s your mother on the phone.是你妈打的电话。<br>Hello，Peter，<strong>it</strong>‘s Mike here.你好，彼特，我是麦克。<br>Was <strong>it</strong> you who put these books on my desk？<br>是你把这些书放在我桌子上的吗？  </p>
-<p>6 强调句<br><strong>It</strong>‘s Spain that they’re going to，not Portugal.他们去的是西班牙，不是葡萄牙。<br><strong>It</strong> was three weeks later that he heard the news.三周后，他才得知这个消息。<br>*<em>详见强调句 *</em> </p>
-<h1 id="二-物主代词"><a href="#二-物主代词" class="headerlink" title="二 物主代词"></a>二 物主代词</h1><h2 id="1-定义"><a href="#1-定义" class="headerlink" title="1 定义"></a>1 定义</h2><p>(1)形容词性物主代词<br>my，your，his，her，their，its<br>I want my own car.<br>Anyone who drives <strong>his</strong> car at 100 miles an hour is asking for trouble.  </p>
-<p>(2)名词性物主代词<br>| 单数 |mine   | yours  |his/her|<br>|:——-|:——-|:——-|:——-|<br>|复数  |ours  |yours   |theirs |</p>
-<p>He’s a friend of <strong>mine</strong> ( =one of my friends Which table is ours?<br>think she’s a relation of <strong>theirs</strong>.  </p>
-<p>指代清楚时用名词性物主代词。  </p>
-<h2 id="句法功能"><a href="#句法功能" class="headerlink" title="句法功能"></a>句法功能</h2><p>(1) 形容词性物主代词：句中做定语，修饰名词。<br>Your mother is driving me crazy.你母亲快把我逼疯了。<br>James has sold his car.詹姆斯卖了他的车。<br><strong>注意：在动名词的复合结构中，形容词性物主代词做名词的逻辑主语。</strong>  </p>
-<p>She was somewhat surprised at <strong>my</strong> asking（=that I asked）for the book to be returned.我要她还书她感到相当惊讶。<br>Did Chris tell you about <strong>his</strong> winning some money in the lottery.克里斯告诉你他买彩票中奖了吗？  </p>
-<p>（2）名词性物主代词<br><strong>主语</strong><br>Ours is the red car parked over there.我们的车是停在那边那辆红色的。<br>Theirs are the children with very fair hair.他们的孩子有一头金色的头发。<br><strong>表语</strong><br>“Whose bag is this？””<strong>Its</strong> mine.”<br>“这是谁的包？”是我的<br>Is that book <strong>yours</strong>？<br>那本书是你的吗？  </p>
-<p><strong>宾语</strong><br>Let’s go back to <strong>yours</strong> after the show.秀场结束后我们去你家。<br>I will clean my house and you clean yours.我打扫我的房子，你打扫你的。<br>of+名词性物主代词连用做定语，为双重所有格，表示所涉及的某个群体中的一位。<br>a friend of hers她的一位朋友（= one of her friends）<br>He’s a cousin of ours.他是我们的一个表兄。（= one of our cousins）  </p>
-<h1 id="反身代词"><a href="#反身代词" class="headerlink" title="反身代词"></a>反身代词</h1><p>表“自己”<br>有人称和数的变化  </p>
-<table>
-<thead>
-<tr>
-<th align="left">人称</th>
-<th align="left">单数</th>
-<th align="left">复数</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">第一人称</td>
-<td align="left">myself</td>
-<td align="left">ourselves</td>
-</tr>
-<tr>
-<td align="left">第二人称</td>
-<td align="left">youself</td>
-<td align="left">yourselves</td>
-</tr>
-<tr>
-<td align="left">第三人称</td>
-<td align="left">himself,herself,itself</td>
-<td align="left">themselvs</td>
-</tr>
-</tbody></table>
-<p>Be careful with that knife or you’ll cut <strong>yourself</strong>！<br>用那把刀要当心，否则你会弄伤自己的！<br>They asked <strong>themselves</strong> where they had gone wrong.他们在反省自己哪儿出错了  </p>
-<p>小结：人称，物主，反身代词<br>|人称|单复数|主格|宾格|形容词性物主代词|名词性物主代词|反身代词|<br>|:——-|:——-|:——-|:——-|:——-|:——-|:——-|<br>|第一人称|单数|I|me|my|mine|myself|<br>|第二人称|单数|you|you|your|yours|yourself|<br>|第三人称|单数|he,she,it|him,her,it|his,her,its|his,<strong>hers</strong>,its|himself,herself,itself|<br>|第一人称|复数|we|us|our|ours|ourselves|<br>|第二人称|复数|you|you|your|yours|youselves|<br>|第三人称|复数|they|them|their|theirs|themselves|</p>
-<h1 id="指示代词"><a href="#指示代词" class="headerlink" title="指示代词"></a>指示代词</h1><ul>
-<li>this,that,these,those做代词时为指示代词</li>
-<li>表示“这个，那个，这些，那些”</li>
-<li>在句中做主语，宾语</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th align="left">单数</th>
-<th align="left">this</th>
-<th align="left">that</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">复数</td>
-<td align="left">these</td>
-<td align="left">those</td>
-</tr>
-</tbody></table>
-<h2 id="句法功能-1"><a href="#句法功能-1" class="headerlink" title="句法功能"></a>句法功能</h2><ul>
-<li>(1) 作主语</li>
-</ul>
-<p><strong>These</strong> are too heavy for me to carry.这些太重了，我拿不动。<br><strong>This</strong> is the one I want.这就是我要的那个。</p>
-<ul>
-<li><p>(2) 作宾语<br>I like this better than <strong>that</strong>.我喜欢这个多于那个。<br>I don’t say no to <strong>that</strong>.我并未拒绝那个。<br>here is no fear of <strong>that</strong>.那并不可怕。 </p>
-</li>
-<li><p>(3) 作定语<br>Can I help you with those bags？我可以帮忙提这些包吗？<br>I’ve never liked that cousin of hers.我从来没喜欢过她的那个表亲。  </p>
-</li>
-<li><p>(4) 作表语<br>Who’s that？Is that the girl you told me about？<br>那是谁？是你跟我说起过的那个女孩吗？<br>What’s this？Is this what you’re looking for？<br>这是什么？这是你要找的吗？  </p>
-</li>
-</ul>
-<h2 id="用法"><a href="#用法" class="headerlink" title="用法"></a>用法</h2><ul>
-<li>(1) <strong>this和these</strong>指在时间和空间上较近的人或物，<strong>that和those</strong>指在时间和空间上较远的人或者事物。<br>This is a pen and that’s an eraser这是一支笔，那是块橡皮擦。<br>This is a boy and those are girls.这是个男孩，那些是女孩。  </li>
-</ul>
-<ul>
-<li>(2) 为了<strong>避免重复</strong>，用that或those来代替前面已经提到的人或者物；<br>用this或these来代替下文中将要提的人或物。<br>She’s very friendly，and that is why we all love her.她很友善，这就是我们都喜欢她的原因。<br>You needn’t do this – It’s pretty easy.你不必做这事，那相当容易。  </li>
-<li>(3) 打电话介绍自己时用<strong>this</strong>指“我”，不用I；<br>询问对方用<strong>that</strong>指“你”，不用you。<br>Hello.This is Mary.Who’s that？喂，我是玛丽。你是谁？<br>This is Ton.我是汤姆  </li>
-</ul>
-<h1 id="五-关系代词"><a href="#五-关系代词" class="headerlink" title="五 关系代词"></a>五 关系代词</h1><ol>
-<li>用来引导定语从句  </li>
-<li>在从句中充当一定的<strong>句子成分</strong>  </li>
-<li>关系代词有主语，<strong>宾格和属格</strong>之分</li>
-<li>有指人与物之分</li>
-</ol>
-<blockquote>
-<p>属格的别名所有格</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="left">指人</th>
-<th align="left">who,whom,whose,that,as</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">指物</td>
-<td align="left">which,whose,that,as</td>
-</tr>
-</tbody></table>
-<h1 id="六-连接代词"><a href="#六-连接代词" class="headerlink" title="六 连接代词"></a>六 连接代词</h1><p>疑问代词在引起从句时，都称为连接代词，包括who，whom，Whose，what，which，whoever，whomever，whichever，whatever  </p>
-<h1 id="七-不定代词"><a href="#七-不定代词" class="headerlink" title="七 不定代词"></a>七 不定代词</h1><ol>
-<li>合成不定代词  </li>
-</ol>
-<table>
-<thead>
-<tr>
-<th align="left">someone 某人</th>
-<th align="left">anyone 任何人</th>
-<th align="left">everyone 人人</th>
-<th align="left">no one 没有人</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">somebody 某人</td>
-<td align="left">anybody 任何人</td>
-<td align="left">everybody 人人</td>
-<td align="left">nobody 没有人</td>
-</tr>
-<tr>
-<td align="left">something 某样东西</td>
-<td align="left">anything 任何东西</td>
-<td align="left">everything 一切</td>
-<td align="left">nothing 没有东西</td>
-</tr>
-</tbody></table>
-<ol start="2">
-<li>第二类不定代词</li>
-</ol>
-<table>
-<thead>
-<tr>
-<th align="left">some</th>
-<th align="left">either</th>
-<th align="left">little</th>
-<th align="left">other</th>
-<th align="left">many</th>
-<th align="left">each</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">any</td>
-<td align="left">neither</td>
-<td align="left">a little</td>
-<td align="left">others</td>
-<td align="left">much</td>
-<td align="left">both</td>
-</tr>
-<tr>
-<td align="left"></td>
-<td align="left">none</td>
-<td align="left">few</td>
-<td align="left">another</td>
-<td align="left">more</td>
-<td align="left">every</td>
-</tr>
-<tr>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left">a few</td>
-<td align="left">the other</td>
-<td align="left">most</td>
-<td align="left">all</td>
-</tr>
-</tbody></table>
-<p><strong>注意</strong>：</p>
-<ul>
-<li>合成不定代词谓语动词用<strong>单数</strong><br>Theres something sharp in my shoes.我的鞋子里有个尖东西。<br>There’<strong>s</strong> someone outside the house.屋子外面有人。  </li>
-</ul>
-<p><strong>Nobody</strong> agree<strong>s</strong> with me.没人同意我的看法。 </p>
-<ul>
-<li>-thing结尾指物；-one，body结尾指人<br>Everyone involved in the accident has been questioned by the police.事故牵涉到的毎个人都被警方盘问过。<br>She could be anything（=any age）between 30 and 40. 她的年龄介于30到40岁之间。<br>No one told me she was ill. 没人告诉我她病了。  </li>
-</ul>
-<h2 id="3-合成不定代词句法功能"><a href="#3-合成不定代词句法功能" class="headerlink" title="3 合成不定代词句法功能"></a>3 合成不定代词句法功能</h2><ul>
-<li><p>(1) 作主语<br>Anybody can use the pool-you don’t need to be a member.谁都能用泳池——你不必成为会员。<br>Somebody in the office will know.办公室的有些人将会知道。  </p>
-</li>
-<li><p>(2) 作宾语<br>The terrorists forced everybody to lie face down on the floor.<br>恐怖分子迫使每个人都面朝地趴下。<br>You can’t <strong>blame</strong> him <strong>for</strong> everything.你不能什么事都怪他。 </p>
-</li>
-<li><p>(3) 作表语<br>At first I thought there was no one in the room.起初我以为房间里没人。<br>There’s never anything worth watching on TV.电视上没什么值得看的东西。  </p>
-</li>
-<li><p>(4) 与else连用：已经谈及的人或物，又想再提到的另外的人或物，可在合成不定代词后加”-else”<br>You’ll have to ask someone else.你得问问别人。<br>There’s nothing else we can do to help.我们帮不上什么别的忙。<br>注意：合成不定代词前<strong>不能加定语</strong>，如表示限定，需在其<strong>后</strong>在限定词。  </p>
-</li>
-</ul>
-<p>an important somebody（x）<br>somebody important（√）<br>常用短语（背诵）<br>a）anything but = definitely not<br>b）be/have nothing to do with somebody/something = to have no connection with somebody/something<br>c）nothing but = only<br>d）nothing like（informal） = not at all  </p>
-<h2 id="many，much，more，most，few，little用法"><a href="#many，much，more，most，few，little用法" class="headerlink" title="many，much，more，most，few，little用法"></a>many，much，more，most，few，little用法</h2><p>All she wanted was <strong>a few</strong> moments on her own. 一些<br>She had <strong>few</strong> moments on her own.一点儿<br>She saves <strong>a little</strong> money every month. 一些<br>They had <strong>little</strong> money to spend. 不多  </p>
-<blockquote>
-<p>有a 肯<br>没a 否<br>小样的，不可数</p>
-</blockquote>
-<p>I don’ t earn <strong>much</strong> money. 多<br>Would you like some <strong>more</strong> food?  更多<br>Many people would disagree with your ideas. 许多<br>In this school, most of the children are from the Chinese community. 大多数的  </p>
-<h2 id="5-some，any，either用法（背诵）"><a href="#5-some，any，either用法（背诵）" class="headerlink" title="5 some，any，either用法（背诵）"></a>5 some，any，either用法（背诵）</h2><ul>
-<li>(1) some用于肯定句中，表示一些。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>英语</category>
-      </categories>
-      <tags>
-        <tag>英语</tag>
-        <tag>语法</tag>
       </tags>
   </entry>
 </search>
